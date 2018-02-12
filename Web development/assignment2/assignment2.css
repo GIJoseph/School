@@ -1,0 +1,59 @@
+body{
+	background-image: url("background.jpg");
+}
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+
+.videos
+{
+	height: 300px;
+	max-width: 100%;
+	margin: 0%;
+	position: relative;
+	float: left;
+}
+
+h1 a{
+	text-decoration: none;
+}
+nav ul{
+	background-color: red;
+	overflow: hidden;
+	height: auto;
+}
+nav ul li{
+	list-style-type: none;
+	float: left;
+}
+.navlinks{
+	//margin: 0;
+	display: block;
+	padding: 20px;
+	background: red;
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	border-style: solid;
+}
+.navlinks:hover{
+	color: white;
+	background: crimson;
+}

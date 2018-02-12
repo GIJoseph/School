@@ -1,0 +1,97 @@
+/*
+Colors Used: #FF5115, #7CEA13, #1978B6
+*/
+
+nav ul li{
+  display:inline
+}
+nav ul{
+	list-style:none;
+	/*margin:20px;*/
+	padding:0;
+  	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+nav ul li a{
+	text-decoration: none;
+	padding: 8px;
+	background: #FF5115;
+	border-radius: 20px;
+	font-size: 22px;
+	color: #7CEA13;
+}
+p{
+	clear: left;
+}
+#selectedlink{
+	text-decoration:underline;
+	
+}
+body{
+	background: #1978B6;
+	box-sizing: border-box;
+}
+.paragraphs{
+	float: left;
+	width: 36%;
+	padding: 20px;
+	background: #FF5115;
+	margin: 5%;
+	border-radius: 20px;
+}
+.words{
+	font-size: 25px;
+	font-family: DejaVu Sans Mono;
+	text-indent:3em
+}
+.headlines{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+#accordion{
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+	width: 75%;
+	background: #FF5115;
+	padding: 10px;
+	border-radius: 20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#accordion .ui-accordion-content{
+	font-size: 25px;
+}
+#accordion .ui-accordion-header{
+	font-size: 25px;
+}
+
+#saveButton{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 30px;
+	margin: 20px 0;
+	font-size: 50px;
+}
+#saveDiv{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pictureDiv img{
+	width: 40%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+footer{
+	text-align:center;
+}
+

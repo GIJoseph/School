@@ -1,0 +1,40 @@
+body{
+ 	background-image: url("background.jpg");
+}
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#cameron{
+	background: white;
+}
+#pics img{
+	border-radius: 20px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+#paragraph, #myList, #whatIIncorporated{
+	background-color: white;
+	border: 10px solid green;
+	text-indent: 5px;
+}
+#paragraph p{
+	text-indent: 10%;
+}
+
+#externalLink{
+	background-color: white;
+}
+#externalLink:hover, #census:hover{
+	background-color: magenta;
+}
+footer{
+	color: white;
+	text-align: center;
+	font-size: 9px;
+	
+}

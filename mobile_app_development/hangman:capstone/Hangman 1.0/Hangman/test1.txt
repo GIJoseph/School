@@ -1,0 +1,7 @@
+Hello
+Dog
+Cat
+Chicken
+Computer
+Cactus
+Umbrella

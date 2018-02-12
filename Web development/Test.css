@@ -1,0 +1,17 @@
+p{
+	margin: 100px;
+	
+}
+body{
+	/*background-image: url("apple-16.jpg");*/
+	background-repeat: no-repeat;
+	background-attachment: fixed
+	border:300px green;
+	width: 500px;
+	
+	
+	
+}
+h1{
+	text-align: right;
+}
