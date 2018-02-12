@@ -1,1 +1,1 @@
-This github is new and is in a work in progress from school projects
+This github is for projects that I did while in school
